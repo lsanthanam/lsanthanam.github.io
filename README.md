@@ -1,7 +1,13 @@
-lsanthanam.github.io
+<html>
+<head>
+<title>Check out this homepage, y'all!</title>
+</head>
+
+<body>
+<h1>lsanthanam.github.io </h1>
 ====================
 
-First stab at GitHub
+<h2> First stab at GitHub </h2>
 
 Here's me trying out GitHub for the first time. Yahoo!
 
@@ -15,3 +21,6 @@ https://github.com/lsanthanam/lsanthanam.github.io
 
 And this may be fairly ambitious, but I may have a customized homepage in the near future at:
 http://lsanthanam.github.io
+
+</body>
+</html>
