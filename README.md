@@ -1,9 +1,10 @@
 <html>
 <head>
-<title>Check out this homepage, y'all!</title>
+<title><b>Check out this homepage, y'all! </b></title>
 </head>
 
 <body>
+
 <h1>lsanthanam.github.io </h1>
 ====================
 
